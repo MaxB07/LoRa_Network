@@ -1,4 +1,5 @@
 # LoRa_Network
+A continuación, se mostrarán las distintas pruebas relizadas para determinar la corriente consumida por el Gateway y el nodo en un intervalo de tiempo.
 ## **Variación de parámetros de la modulación LoRa**
 ###  **Gateway** 
 #### **_Gráficas de corriente y potencia_**
